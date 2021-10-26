@@ -1,2 +1,2 @@
 # c-digos
-Repositório para colocar códigos
+Repositório para colocar códigos com intuito de um portfólio.
